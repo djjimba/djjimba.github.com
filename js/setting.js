@@ -10,7 +10,7 @@ Taxes.taxRate = 0.06; // 住民税率
 
 var OpenSpending = OpenSpending || {};
 
-OpenSpending.identifier = 'musashino_2012';
+OpenSpending.identifier = 'musashino_budget_2012';
 OpenSpending.year = '2012';
 
 OpenSpending.Styles = OpenSpending.Styles || {};
